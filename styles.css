@@ -6,6 +6,7 @@
 
 .custom-title {
     background-color: rgb(0, 0, 95) !important;
+    width: 60%;
 }
 
 .custom-profile {
@@ -15,5 +16,5 @@
 
 .custom-interests {
     background-color: rgb(58, 150, 211) !important;
-    width: 60%;  
+    width: 60%;
 }
